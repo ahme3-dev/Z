@@ -1,0 +1,7 @@
+{
+  "name": "ERT",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
